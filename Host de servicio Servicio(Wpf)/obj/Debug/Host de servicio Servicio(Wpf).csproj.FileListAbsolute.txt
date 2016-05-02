@@ -1,0 +1,28 @@
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\bin\Debug\Host de servicio Servicio(Wpf).exe.config
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\bin\Debug\Host de servicio Servicio(Wpf).exe
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\bin\Debug\Host de servicio Servicio(Wpf).pdb
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf).csprojResolveAssemblyReference.cache
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\MainWindow.baml
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\MainWindow.g.cs
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\App.g.cs
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf)_MarkupCompile.cache
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf).g.resources
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host_de_servicio_Servicio_Wpf_.Properties.Resources.resources
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf).csproj.GenerateResource.Cache
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf).exe
+\\prgserver\adtpresencial$\dam2pr12\mis documentos\visual studio 2013\Projects\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf).pdb
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\bin\Debug\Host de servicio Servicio(Wpf).exe.config
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\bin\Debug\Host de servicio Servicio(Wpf).exe
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\bin\Debug\Host de servicio Servicio(Wpf).pdb
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\MainWindow.baml
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Configuración.g.cs
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\MainWindow.g.cs
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\App.g.cs
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf)_MarkupCompile.cache
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf)_MarkupCompile.lref
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Configuración.baml
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf).g.resources
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host_de_servicio_Servicio_Wpf_.Properties.Resources.resources
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf).csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf).exe
+C:\Users\Nacho\Desktop\Host de servicio Servicio(Wpf)\Host de servicio Servicio(Wpf)\obj\Debug\Host de servicio Servicio(Wpf).pdb

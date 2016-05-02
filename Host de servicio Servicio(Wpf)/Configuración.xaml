@@ -1,0 +1,32 @@
+﻿<Window x:Class="Host_de_servicio_Servicio_Wpf_.Configuracion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Host_de_servicio_Servicio_Wpf_"
+        mc:Ignorable="d"
+        Title="Configuración" Height="400" Width="600" Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Border Background="CadetBlue" Margin="0,0,0,-1">
+        <Border Padding="5" Margin="20" CornerRadius="20" Background="White">
+            <StackPanel Orientation="Vertical">
+                <Label HorizontalAlignment="Center" FontSize="25">Ventana de configuración</Label>
+                <Label Name="labAyuda" > </Label>
+                
+                <Label Margin="5">A continuación escribe una pregunta:</Label>
+                <TextBox Name="tbxPregunta" Margin="5" Width="450" BorderBrush="Red" BorderThickness="2"></TextBox>
+                <Label Margin="5" >A continuación escribe la respuesta a la pregunta anterior:</Label>
+                <TextBox Name="tbxRespuesta" Margin="5" Width="450" BorderBrush="Red" BorderThickness="2"></TextBox>
+                <StackPanel Orientation="Horizontal" Margin="0 20 0 0" HorizontalAlignment="Center">
+                    <Button Name="BtnAceptar" Margin="5" Padding="5" Click="BtnAceptar_Click">_Aceptar</Button>
+                    <Button Name="BtnCancelar" Margin="5" Padding="5" Click="BtnCancelar_Click">_Cancelar</Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" >
+                    <Button Name="Btn_Guardar" Width="100" Padding="5" Margin="5"
+                            Click="Btn_Guardar_Click">_Guardar</Button>
+                    <Button Name="Btn_Salir" Width="100" Padding="5" Margin="5" Click="Btn_Salir_Click">_Salir</Button>
+                </StackPanel>
+                
+            </StackPanel>
+        </Border>
+    </Border>
+</Window>

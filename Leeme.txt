@@ -1,0 +1,12 @@
+Esto es un pequeño programa que se auto arranca, te hace una pregunta y te da un tiempo para contestar.
+Si se acierta se cierra y si no se puede volver a intentar hasta que se acabe el tiempo.
+Si se acaba el tiempo el ordenador se apagará.
+Esta pensado para "obligar" a mi niña a estudiar.
+
+---------------------------------------------------------------
+--- Configuración
+---------------------------------------------------------------
+Para configurar las preguntas simplemente responda:
+Configurate question
+El comando abrirá la ventana de configuración.
+Se admite un número de preguntas ilimitado.
