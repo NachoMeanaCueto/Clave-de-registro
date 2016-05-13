@@ -86,9 +86,9 @@ namespace Host_de_servicio_Servicio_Wpf_
                 {
                     if(respuesta == respuestaCorrecta)
                     {
-                        MessageBox.Show("¡Bien! ya puedes usar el ordenador", "Correcto",
-                            MessageBoxButton.OK, MessageBoxImage.Exclamation);
                         Timer.Stop();
+                        Win window = new Win();                       
+                        window.ShowDialog();
                         this.Close();
                     }
                     else
